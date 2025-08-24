@@ -21,18 +21,36 @@
 ---
 
 ## 📌 Projects  
-- 🛒 **[FreshCart – Multi-Seller Grocery Delivery App](https://fresh-cart-i923.vercel.app/)**  
-  *MERN stack grocery delivery app with multi-seller support, authentication, and cart system.*  
+
+- 🛒 **[FreshCart – Multi-Seller Grocery Delivery App](https://fresh-cart-5sqh.vercel.app/)**  
+  *Built a full-stack MERN e-commerce platform enabling multiple sellers to manage products and orders.  
+  Features include real-time inventory sync with Socket.IO, secure checkout with Stripe & COD, and cloud deployment (Render + Vercel).*  
 
 - 🎓 **[University Management System](https://github.com/BhuvaneshAdithya45/University-Management-System)**  
-  *Java + MySQL project for managing student, faculty, and course records.*  
+  *Developed a modular Java Swing + MySQL desktop application for managing students, faculty, fees, and examinations.  
+  Integrated FlatLaf modern UI themes, PDF report generation (iText), and utility tools like calculator & notepad.*  
+
+- 🌐 **[LinkedHub – Mini LinkedIn-like Community Platform](https://github.com/BhuvaneshAdithya45/LinkedHub)**  
+  *Created a MERN-based social platform with authentication, post feed, likes, comments, profile management, and light/dark mode.  
+  Designed a clean responsive UI with React + Tailwind and deployed for production use.*  
+
+---
+
+## 📖 Currently Learning  
+- Generative AI & LLMs  
+- Advanced Data Structures & Algorithms  
+- System Design Basics  
 
 ---
 
 ## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=BhuvaneshAdithya45&show_icons=true&theme=radical)  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhuvaneshAdithya45&show_icons=true&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=BhuvaneshAdithya45&theme=radical&hide_border=true" height="150"/>
+</div>  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshAdithya45&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=BhuvaneshAdithya45&theme=radical&hide_border=true)  
 
 ---
 
