@@ -31,11 +31,11 @@
   Trained ML models including Decision Tree, Random Forest, and XGBoost (~95% accuracy) and built a MERN-based advisory dashboard with JWT authentication.*
 
 - 🎓 **[University Management System](https://github.com/BhuvaneshAdithya45/University-Management-System)**  
-  *Developed a modular Java Swing + MySQL desktop application for managing students, faculty, fees, and examinations.  
-  Integrated FlatLaf modern UI themes, PDF report generation (iText), and utility tools like calculator and notepad.*
+  *Developed a Java Swing + MySQL desktop application for managing students, faculty, fees, and examinations.  
+  Implemented FlatLaf modern UI, PDF report generation using iText, and utility tools like calculator and notepad.*
 
 - 🌐 **[LinkedHub – Mini LinkedIn-like Community Platform](https://github.com/BhuvaneshAdithya45/LinkedHub)**  
-  *Created a MERN-based social platform with authentication, post feed, likes, comments, profile management, and light/dark mode.  
+  *Created a MERN-based social platform with authentication, posts, likes, comments, profile management, and light/dark mode.  
   Designed a clean, responsive UI using React and Tailwind CSS and deployed for production use.*
 
 ---
@@ -50,11 +50,11 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhuvaneshAdithya45&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=BhuvaneshAdithya45&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BhuvaneshAdithya45&show_icons=true&theme=radical&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=BhuvaneshAdithya45&theme=radical" height="150"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshAdithya45&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshAdithya45&layout=compact&theme=radical&cache_seconds=1800"/>
 
 ---
 
