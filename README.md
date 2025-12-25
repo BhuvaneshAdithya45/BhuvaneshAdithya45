@@ -24,15 +24,19 @@
 
 - 🛒 **[FreshCart – Multi-Seller Grocery Delivery App](https://fresh-cart-5sqh.vercel.app/)**  
   *Built a full-stack MERN e-commerce platform enabling multiple sellers to manage products and orders.  
-  Features include real-time inventory sync with Socket.IO, secure checkout with Stripe & COD, and cloud deployment (Render + Vercel).*  
+  Features include real-time inventory sync with Socket.IO, secure checkout with Stripe & COD, and cloud deployment using Render and Vercel.*
+
+- 🌱 **[AgroAware – AI-Driven Crop Recommendation System](https://github.com/BhuvaneshAdithya45/AgroAware)**  
+  *Developed an AI-powered crop recommendation system using soil nutrients (N, P, K), pH, rainfall, and temperature.  
+  Trained ML models including Decision Tree, Random Forest, and XGBoost (~95% accuracy) and built a MERN-based advisory dashboard with JWT authentication.*
 
 - 🎓 **[University Management System](https://github.com/BhuvaneshAdithya45/University-Management-System)**  
   *Developed a modular Java Swing + MySQL desktop application for managing students, faculty, fees, and examinations.  
-  Integrated FlatLaf modern UI themes, PDF report generation (iText), and utility tools like calculator & notepad.*  
+  Integrated FlatLaf modern UI themes, PDF report generation (iText), and utility tools like calculator and notepad.*
 
 - 🌐 **[LinkedHub – Mini LinkedIn-like Community Platform](https://github.com/BhuvaneshAdithya45/LinkedHub)**  
   *Created a MERN-based social platform with authentication, post feed, likes, comments, profile management, and light/dark mode.  
-  Designed a clean responsive UI with React + Tailwind and deployed for production use.*  
+  Designed a clean, responsive UI using React and Tailwind CSS and deployed for production use.*
 
 ---
 
@@ -48,13 +52,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhuvaneshAdithya45&show_icons=true&theme=radical" height="150"/>
   <img src="https://streak-stats.demolab.com?user=BhuvaneshAdithya45&theme=radical&hide_border=true" height="150"/>
-</div>  
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshAdithya45&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshAdithya45&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvaneshadithya/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhuvaneshAdithya45)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvaneshadithya294@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvaneshadithya294@gmail.com)
